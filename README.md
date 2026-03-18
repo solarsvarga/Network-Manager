@@ -49,7 +49,7 @@
 ## Сборка в EXE
 
 ```bash
-pyinstaller --noconsole --onefile Network_Manager2.py
+pyinstaller --noconsole --onefile Network_Manager.py
 ```
 
 ## Автор
