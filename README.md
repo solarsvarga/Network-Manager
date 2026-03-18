@@ -61,7 +61,6 @@ pyinstaller --noconsole --onefile Network_Manager_1_1.py
 ```
 
 ## Предупреждение VirusTotal
-https://www.virustotal.com/gui/file/86a8e255c0e2c4b83e81109f1ff4d696a84ffb36be0fea06d6433419d9d4f12d?nocache=1
 
 Некоторые антивирусные программы могут помечать исполняемый файл как подозрительный.
 
