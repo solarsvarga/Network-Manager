@@ -49,7 +49,7 @@
 ## Сборка в EXE
 
 ```bash
-pyinstaller --noconsole --onefile Network_Manager_1_0.py
+pyinstaller --noconsole --onefile Network_Manager_1_1.py
 ```
 
 ## Предупреждение VirusTotal
@@ -66,7 +66,7 @@ https://www.virustotal.com/gui/file/86a8e255c0e2c4b83e81109f1ff4d696a84ffb36be0f
 
 При желании вы можете самостоятельно собрать программу из исходников:
 ```bash
-pyinstaller --noconsole --onefile Network_Manager_1_0.py
+pyinstaller --noconsole --onefile Network_Manager_1.1.py
 ```
 После сборки результат будет аналогично определяться антивирусами, что подтверждает отсутствие вредоносного кода.
 
