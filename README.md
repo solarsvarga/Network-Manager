@@ -1,5 +1,5 @@
 **Менеджер Сети** — это настольное приложение для Windows, предназначенное для быстрого управления DNS и базовыми сетевыми настройками через удобный графический интерфейс.
-**Network Manager** is a desktop application for Windows designed to quickly manage DNS and basic network settings through an easy-to-use graphical interface.
+* **Network Manager** is a desktop application for Windows designed to quickly manage DNS and basic network settings through an easy-to-use graphical interface.
 
 ## Скриншоты
 <p align="center">
