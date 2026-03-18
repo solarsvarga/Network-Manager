@@ -3,7 +3,7 @@
 
 ## Скриншоты
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e87aa507-47f6-494c-8aa8-1097c7f5677a" width="32%">
+  <img src="https://github.com/user-attachments/assets/fc234dee-77a6-40f7-9268-13ccc0bbba37" width="32%">
   <img src="https://github.com/user-attachments/assets/c8543bbd-02f4-44d0-9ad8-4c5cc8e2d4e6" width="32%">
   <img src="https://github.com/user-attachments/assets/9a258b2e-da77-4997-8eaa-edceef65086a" width="32%">
 </p>
