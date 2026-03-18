@@ -108,7 +108,7 @@ class NetworkManagerApp:
 
     def __init__(self, root):
         self.root = root
-        self.root.title("Менеджер сети")
+        self.root.title("Менеджер сети 1.1")
         self.root.geometry("640x760")
         self.root.resizable(False, False)
         self.tooltips = {}
@@ -382,7 +382,7 @@ class NetworkManagerApp:
     def setup_about_tab(self):
         frame = self.tab_about
         lbl = tk.Label(frame, text="Менеджер сети — графический инструмент для Windows\n"
-        "Версия 1.0\n"
+        "Версия 1.1\n"
         "Автор: Solar Svarga\n\n"
         "Возможности:\n"
         "• DNS Менеджер с предустановленными пресетами (Google, Cloudflare, Comss, Xbox)\n"
@@ -391,9 +391,9 @@ class NetworkManagerApp:
         "• Журналы операций DNS и сети\n"
         "• Файл с пресетами создаётся рядом с программой\n"
         "• Всплывающие подсказки с описанием команд\n\n"
-        "Требуется запуск от имени администратора\n"
-        "*Если случайно удалили стандартный пресет, то рядом с программой удалите файл dns_presets.json\n"
-        "Все действия выполняются локально; данные на внешние серверы не передаются", font=("Segoe UI", 12))
+        "Требуется запуск от имени администратора\n\n"
+        "*Если случайно удалили стандартный пресет,\n то рядом с программой удалите файл dns_presets.json\n"
+        "Все действия выполняются локально; данные\n на внешние серверы не передаются", font=("Segoe UI", 12))
         lbl.pack(pady=40)
         link = tk.Label(frame, text="GitHub", fg="blue", cursor="hand2", font=("Segoe UI", 21))
         link.pack()
